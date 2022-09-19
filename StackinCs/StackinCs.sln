@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackinCs", "StackinCs.csproj", "{D2796E5A-B2E4-4852-8A6F-E7473A7B11FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2796E5A-B2E4-4852-8A6F-E7473A7B11FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2796E5A-B2E4-4852-8A6F-E7473A7B11FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2796E5A-B2E4-4852-8A6F-E7473A7B11FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2796E5A-B2E4-4852-8A6F-E7473A7B11FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D29E9A14-C0C0-4D65-899D-D74732638B87}
+	EndGlobalSection
+EndGlobal
